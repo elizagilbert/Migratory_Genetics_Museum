@@ -1,0 +1,29 @@
+﻿Name,State,Stream,Owner,Purpose,Year,Reservoir,Reservoir,Capacity,Annual,Refs
+,,,,,completed,,capacity,(MW),generation,
+,,,,,,,,,(MWh),
+Alamo Dam, AZ,Bill Williams,USACE,Flood control,1968,Alamo Lake,"1,043,000 acre.ft",N/A,N/A,[44]
+,,,,,,,"(1,286,500 dam3)",,,
+Bartlett Dam, AZ,Verde,USBR,Flood control,1939,Bartlett Lake,"176,186 acre.ft",N/A,N/A,[45]
+,,,,Irrigation,,,"(217,318 dam3)",,,
+Coolidge Dam, AZ,Gila,BIA,Flood control,1930,San Carlos Lake,"910,000 acre.ft",N/A,N/A,[46]
+,,,,Irrigation,,,"(1,122,400 dam3)",,,
+Horse Mesa Dam, AZ,Salt,USBR,Hydropower,1927,Apache Lake,"245,138 acre.ft",129,"126,900",[n 7][48]
+,,,,Regulation,,,"(302,367 dam3)",,,
+Horseshoe Dam, AZ,Verde,USBR,Flood control,1946,Horseshoe Lake,"131,500 acre.ft",N/A,N/A,[49]
+,,,,Regulation,,,"(162,200 dam3)",,,
+Mormon Flat Dam, AZ,Salt,USBR,Hydropower,1925,Canyon Lake,"57,852 acre.ft",60,"65,400",[n 8][50]
+,,,,Regulation,,,"(71,358 dam3)",,,
+New Waddell Dam, AZ,Agua Fria,USBR,Irrigation,1994,Lake Pleasant,"1,108,600 acre.ft",45,?,[51]
+,,,,Municipal,,,"(1,367,409 dam3)",,,
+Painted Rock Dam, AZ,Gila,USACE,Flood control,1960,Painted Rock Reservoir,"2,491,700 acre.ft",N/A,N/A,[52]
+,,,,,,,"(3,073,400 dam3)",,,
+Sand Hollow Dam, UT,Offstream,WCWCD[n 9],Irrigation,2002,Sand Hollow Reservoir,"51,360 acre.ft",N/A,N/A,[52]
+,,,,Municipal,,,"(63,350 dam3)",,,
+Stewart Mountain Dam, AZ,Salt,USBR,Hydropower,1930,Saguaro Lake,"69,765 acre.ft",13,"57,700",[n 10][53]
+,,,,Regulation,,,"(86,052 dam3)",,,
+Theodore Roosevelt Dam, AZ,Salt,USBR,Flood control,1911,Theodore Roosevelt Lake,"2,910,200 acre.ft",36,"123,900",[n 11][54]
+,,,,Hydropower,,,"(3,589,600 dam3)",,,
+,,,,Irrigation,,,,,,
+,,,,Municipal,,,,,,
+Total,,,,,,,"9,195,301 acre.ft",283,"373,900",
+,,,,,,,"(11,342,000 dam3)",,,

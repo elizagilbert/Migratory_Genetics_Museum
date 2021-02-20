@@ -1,0 +1,36 @@
+﻿Name,State,Owner,Purpose,Year,Reservoir,Reservoir,Capacity,Annual,Refs
+,,,,completed,,capacity,(MW),generation,
+,,,,,,,,(MWh),
+Windy Gap Dam, CO,Northern Water,Irrigation,1970,Windy Gap Reservoir,445 acre.ft,N/A,N/A,[16]
+,,,Municipal,,,(549 dam3),,,
+Total,,,,,,"58,343,045 acre.ft","3,772.50","8,885,749",
+,,,,,,"(71,963,595 dam3)",,,
+Shadow Mountain Dam, CO,USBR,Irrigation,1946,Shadow Mountain Lake,"18,400 acre.ft",N/A,N/A,[18]
+,,,Municipal,,,"(22,700 dam3)",,,
+Price-Stubb Dam, CO,PCID[n 2],Irrigation,1911,N/A,N/A,N/A,N/A,[n 4][14]
+,,MCID[n 3],,,,,,,
+Parker Dam, AZ,USBR,Hydropower,1938,Lake Havasu,"646,200 acre.ft",120,"456,944",[7]
+, CA,,Irrigation,,,"(797,100 dam3)",,,
+,,,Municipal,,,,,,
+Palo Verde Dam, AZ,USBR,Diversion,1958,N/A,N/A,N/A,N/A,[4]
+, CA,,,,,,,,
+Morelos Dam, AZ,IBWC,Irrigation,1950,N/A,N/A,N/A,N/A,[1]
+, BC,,,,,,,,
+Laguna Diversion Dam, AZ,USBR,Diversion,1905,N/A,N/A,N/A,N/A,[2]
+, CA,,,,,,,,
+Imperial Dam, AZ,USBR,Irrigation,1938,Imperial Reservoir,"160,000 acre.ft",N/A,N/A,[n 1][3]
+, CA,,,,,"(197,400 dam3)",,,
+Hoover Dam, AZ,USBR,Flood control,1936,Lake Mead,"28,945,000 acre.ft","2,079","3,806,935",[10][11]
+, NV,,Hydropower,,,"(35,702,400 dam3)",,,
+,,,Irrigation,,,,,,
+,,,Municipal,,,,,,
+,,,Regulation,,,,,,
+Headgate Rock Dam, AZ,BIA,Irrigation,1941,Moovalya Lake,N/A,19.5,?,[5][6]
+, CA,,,,,,,,
+Grand Valley Diversion Dam, CO,USBR,Irrigation,1916,N/A,N/A,3,"19,350",[15]
+Granby Dam, CO,USBR,Irrigation,1950,Lake Granby,"539,800 acre.ft",N/A,N/A,[17]
+,,,Municipal,,,"(665,800 dam3)",,,
+Glen Canyon Dam, AZ,USBR,Hydropower,1966,Lake Powell,"26,214,900 acre.ft","1,296","3,454,847",[12][13]
+,,,Regulation,,,"(32,334,900 dam3)",,,
+Davis Dam, AZ,USBR,Hydropower,1951,Lake Mohave,"1,818,300 acre.ft",255,"1,147,673",[8][9]
+, NV,,Regulation,,,"(2,242,800 dam3)",,,

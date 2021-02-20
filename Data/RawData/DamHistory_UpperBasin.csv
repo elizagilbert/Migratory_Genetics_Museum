@@ -1,0 +1,49 @@
+﻿Name,State,Stream,Owner,Purpose,Year,Reservoir,Reservoir,Capacity,Annual,Refs
+,,,,,completed,,capacity,(MW),generation,
+,,,,,,,,,(MWh),
+Blue Mesa Dam, CO,Gunnison,USBR,Flood control,1966,Blue Mesa Reservoir,"940,700 acre.ft",86.4,"203,412",[19]
+,,,,Hydropower,,,"(1,160,300 dam3)",,,
+,,,,Regulation,,,,,,
+Dillon Dam, CO,Blue,Denver Water,Irrigation,1963,Dillon Reservoir,"257,304 acre.ft",1.8,?,[20][21]
+,,,,Municipal,,,"(317,373 dam3)",,,
+Flaming Gorge Dam, UT,Green,USBR,Flood control,1964,Flaming Gorge Reservoir,"3,788,700 acre.ft",153,"344,369",[22]
+,,,,Hydropower,,,"(4,673,200 dam3)",,,
+,,,,Regulation,,,,,,
+Fontenelle Dam, WY,Green,USBR,Flood control,1964,Fontenelle Reservoir,"345,360 acre.ft",10,"67,043",[23]
+,,,,Irrigation,,,"(426,990 dam3)",,,
+Green Mountain Dam, CO,Blue,USBR,Hydropower,1943,Green Mountain Reservoir,"153,639 acre.ft",21.6,"60,228",[24][25]
+,,,,Regulation,,,"(189,507 dam3)",,,
+Joes Valley Dam, UT,Seely Cr.,USBR,Irrigation,1966,Joes Valley Reservoir,"54,920 acre.ft",N/A,N/A,[26]
+,,,,Municipal,,,"(67,740 dam3)",,,
+McPhee Dam, CO,Dolores,USBR,Flood control,1984,McPhee Reservoir,"381,195 acre.ft",1.283,"5,335",[27][28]
+,,,,Irrigation,,,"(470,187 dam3)",,,
+Morrow Point Dam, CO,Gunnison,USBR,Hydropower,1968,Morrow Point Reservoir,"117,190 acre.ft",173.334,"292,887",[29][30]
+,,,,,,,"(144,550 dam3)",,,
+Navajo Dam, NM,San Juan,USBR,Flood control,1962,Navajo Lake,"1,708,600 acre.ft",32,"215,000",[n 5][31][32]
+,,,,Irrigation,,,"(2,107,500 dam3)",,,
+,,,,Municipal,,,,,,
+,,,,Regulation,,,,,,
+Ridges Basin Dam, CO,Offstream,USBR,Irrigation,2007,Lake Nighthorse,"120,000 acre.ft",N/A,N/A,[33]
+,,,,,,,"(148,000 dam3)",,,
+Ridgway Dam, CO,Uncompahgre,USBR,Flood control,1987,Ridgway Reservoir,"84,410 acre.ft",N/A,N/A,[34]
+,,,,Irrigation,,,"(104,120 dam3)",,,
+Ruedi Dam, CO,Fryingpan,USBR,Irrigation,1968,Ruedi Reservoir,"102,000 acre.ft",N/A,N/A,[35]
+,,,,Municipal,,,"(125,800 dam3)",,,
+Scofield Dam, UT,Price,USBR,Irrigation,1946,Scofield Reservoir,"73,600 acre.ft",N/A,N/A,[36]
+,,,,Municipal,,,"(90,780 dam3)",,,
+Soldier Creek Dam, UT,Strawberry,USBR,Irrigation,1974,Strawberry Reservoir,"1,127,610 acre.ft",N/A,N/A,[37]
+,,,,Municipal,,,"(1,390,860 dam3)",,,
+Starvation Dam, UT,Strawberry,USBR,Irrigation,1970,Starvation Reservoir,"167,300 acre.ft",N/A,N/A,[38]
+,,,,,,,"(206,400 dam3)",,,
+Taylor Park Dam, CO,Taylor,USBR,Irrigation,1937,Taylor Park Reservoir,"106,200 acre.ft",N/A,N/A,[39]
+,,,,,,,"(130,990 dam3)",,,
+Total,,,,,,,"9,821,250 acre.ft",482.575,"1,188,274",
+,,,,,,,"(12,114,080 dam3)",,,
+Vallecito Dam, CO,Los Pinos River,USBR,Irrigation,1941,Vallecito Reservoir,"129,700 acre.ft",N/A,N/A,[40]
+,,,,,,,"(160,000 dam3)",,,
+Vega Dam, CO,Plateau Creek,USBR,Irrigation,1959,Vega Reservoir,"33,800 acre.ft",N/A,N/A,[41]
+,,,,,,,"(41,691 dam3)",,,
+Williams Fork Dam, CO,Williams Fork,Denver Water,Irrigation,1959,Williams Fork Reservoir,"96,822 acre.ft",3.158,?,[42]
+,,,,Municipal,,,"(119,426 dam3)",,,
+Wolford Mountain Dam, CO,Muddy Cr.,CRWCD[n 6],Irrigation,1996,Wolford Mountain Reservoir,"66,000 acre.ft",N/A,N/A,[43]
+,,,,Municipal,,,"(81,400 dam3)",,,
